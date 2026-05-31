@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenthaison14404-cyber/Backend_Phan1.git"
+  },
+  "author": "Nguyen Thai Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenthaison14404-cyber/Backend_Phan1/issues"
+  },
+  "homepage": "https://github.com/nguyenthaison14404-cyber/Backend_Phan1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "expresss": "^0.0.0"
+  }
+}
